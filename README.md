@@ -1,5 +1,5 @@
 # こうかとんグラディウス
-
+あ
 ![title](fig/screenshot.png)
 
 ## 実行環境の必要条件
